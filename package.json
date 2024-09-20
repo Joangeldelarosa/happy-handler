@@ -1,0 +1,29 @@
+{
+  "name": "happy-handler",
+  "version": "1.0.0",
+  "description": "A flexible, type-safe handler to simplify handling success, error, and unknown responses for promises.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joangeldelarosa/happy-handler"
+  },
+  "keywords": [
+    "handler",
+    "promise",
+    "error-handling",
+    "typescript",
+    "axios",
+    "success-handling",
+    "typescript-library"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
